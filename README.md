@@ -39,5 +39,5 @@ I am a **Computer Engineering graduate** from Instituto Politécnico de Tomar (I
 ### 📫 Reach Out
 
 * **Portfolio:** [telmobotelho.vercel.app](https://telmobotelho.vercel.app/)
-* **LinkedIn:** [linkedin.com/in/telmo-botelho-56614736b](https://www.linkedin.com/in/telmo-botelho777/)
+* **LinkedIn:** [https://www.linkedin.com/in/telmo-botelho777/](https://www.linkedin.com/in/telmo-botelho777/)
 * **Email:** telmobotelho4@gmail.com
